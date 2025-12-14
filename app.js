@@ -5,6 +5,8 @@ import userRouter from "./routes/user.routes.js";
 import authRouter from "./routes/auth.routes.js";
 import subscriptionRouter from "./routes/subscription.routes.js";
 
+import bcrypt from "bcryptjs";
+
 const app = express();
 
 app.use("/api/v1/auth", authRouter);
