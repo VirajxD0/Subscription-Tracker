@@ -1,4 +1,4 @@
-# Subscription-Tracker API
+<div align="center" # Subscription-Tracker API </div>
 
 <div align="center">
   <br />
